@@ -23,7 +23,6 @@ package com.example.affirmations.data
  */
 import Affirmation
 import com.example.affirmations.R
-import com.example.affirmations.model.*
 
 
 class Datasource() {
