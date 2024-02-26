@@ -25,6 +25,7 @@ import Affirmation
 import com.example.affirmations.R
 import com.example.affirmations.model.*
 
+
 class Datasource() {
     fun loadAffirmations(): List<Affirmation> {
         return listOf<Affirmation>(
